@@ -15,7 +15,7 @@ var list = ['<img src="historypics/2014.jpeg" alt="Poobster in 2014" class="hist
             '<img src="historypics/2015.jpeg" alt="Poobster in 2015" class="historyimage">October 1, 2015'
 
             ,
-            '<img src="historypics/2016.jpeg" alt="Poobster in 2016" class="historyimage">2016'
+            '<img src="historypics/2016.jpeg" alt="Poobster in 2016" class="historyimage">September 3, 2016'
 
             ,
             '<img src="historypics/2017.jpeg" alt="Poobster in 2017" class="historyimage">October 16, 2017'
